@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "497803694944",
+    "project_id": "tugaspbm-f56ad",
+    "storage_bucket": "tugaspbm-f56ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497803694944:android:0a5774ef8f402f54698405",
+        "android_client_info": {
+          "package_name": "akira.bluearchive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kCIyp6SmQeVKx8otOXNIPvqMQH_d7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497803694944:android:8293864871b11431698405",
+        "android_client_info": {
+          "package_name": "com.example.tugaspr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kCIyp6SmQeVKx8otOXNIPvqMQH_d7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497803694944:android:d5b163a877745c3d698405",
+        "android_client_info": {
+          "package_name": "com.example.tugaspraktikum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kCIyp6SmQeVKx8otOXNIPvqMQH_d7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
