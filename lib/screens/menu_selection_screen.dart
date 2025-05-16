@@ -21,8 +21,8 @@ class MenuSelectionScreen extends StatelessWidget {
         decoration: const BoxDecoration(
           image: DecorationImage(
             image: AssetImage('assets/images/pilih_menu.jpg'),
-            fit: BoxFit.cover,
-            alignment: Alignment.topCenter,
+            fit: BoxFit.fill,
+            alignment: Alignment.bottomCenter,
           ),
         ),
         child: Stack(
@@ -135,6 +135,23 @@ class MenuSelectionScreen extends StatelessWidget {
 
                       // Add some bottom padding
                       const SizedBox(height: 20),
+                      
+
+                      const Text(
+                        '',
+                        style: TextStyle(
+                          fontSize: 175,
+                          color: Colors.white70,
+                          shadows: [
+                            Shadow(
+                              offset: Offset(1.0, 1.0),
+                              blurRadius: 2.0,
+                              color: Color.fromARGB(100, 0, 0, 0),
+                            ),
+                          ],
+                        ),
+                        textAlign: TextAlign.center,
+                      ),
                     ],
                   ),
                 ),
@@ -214,3 +231,4 @@ class MenuSelectionScreen extends StatelessWidget {
     );
   }
 }
+
